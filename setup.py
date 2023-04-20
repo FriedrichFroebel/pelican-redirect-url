@@ -10,12 +10,12 @@ ROOT_DIRECTORY = Path(__file__).parent.resolve()
 setup(
     name="pelican-redirect-url",
     description="Pelican plugin to redirect to any URL",
-    version="0.1.0",
+    version="0.1.1",
     license="AGPL-3.0",
     long_description=(ROOT_DIRECTORY / "README.md").read_text(encoding="utf-8"),
     long_description_content_type="text/markdown",
     author="FriedrichFröbel",
-    url="https://github.com/FriedrichFroebel/pelican-redirect-urls/",
+    url="https://github.com/FriedrichFroebel/pelican-redirect-url/",
     packages=find_namespace_packages(
         where=".",
         include=[
