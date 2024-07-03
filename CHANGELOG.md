@@ -1,5 +1,7 @@
 # Development version
 
+* Migrate to `pyproject.toml`.
+
 # Version 0.1.1 - 2023-04-20
 
 * Fix homepage.
