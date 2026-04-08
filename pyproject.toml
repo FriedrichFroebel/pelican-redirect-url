@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 name = "pelican-redirect-url"
 description = "Pelican plugin to redirect to any URL"
 version = "0.1.1"
-license = {text = "AGPL-3.0-or-later"}
+license = "AGPL-3.0-or-later"
 readme = {file = "README.md", content-type = "text/markdown"}
 authors = [
     {name = "FriedrichFröbel"},
@@ -19,7 +19,6 @@ classifiers = [
     "Framework :: Pelican",
     "Framework :: Pelican :: Plugins",
     "Intended Audience :: End Users/Desktop",
-    "License :: OSI Approved :: GNU Affero General Public License v3",
     "Operating System :: OS Independent",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
