@@ -31,7 +31,7 @@ keywords = [
     "plugin",
     "redirect",
 ]
-requires-python = ">=3.10, <4"
+requires-python = ">=3.11, <4"
 dependencies = [
 ]
 
@@ -47,7 +47,7 @@ dev = [
     "pep8-naming",
     "flake8-bugbear",
     "pelican>=4.5",
-    "Markdown",
+    "markdown",
 ]
 
 [tool.setuptools]
